@@ -1,0 +1,7 @@
+particle_transformer/
+plots/
+models/
+logs/
+lightning_logs/
+data/
+.ipynb_checkpoints/
